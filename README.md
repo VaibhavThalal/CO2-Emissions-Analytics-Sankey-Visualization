@@ -15,7 +15,7 @@ The development of the visualization followed a structured design and investigat
 ### 1. Design Sketch & Data Investigation
 Before implementation, the project began with investigating available indicators related to CO2 emissions within the dataset. A hand drawn sketch was created to visualize the potential flow of data and layout of the final graph.
 
-![Design Sketch](image_af7dc5.jpg)
+![Design Sketch](Design Sketch.png)
 
 **Key steps in this phase included:**
 * **Source Identification:** CO2 emissions were categorized by fuel type: **Solid Fuels**, **Liquid Fuels**, and **Gaseous Fuels**.
