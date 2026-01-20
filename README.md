@@ -15,7 +15,7 @@ The development of the visualization followed a structured design and investigat
 ### 1. Design Sketch & Data Investigation
 Before implementation, the project began with investigating available indicators related to CO2 emissions within the dataset. A hand drawn sketch was created to visualize the potential flow of data and layout of the final graph.
 
-![Design Sketch]([Design Sketch.png](https://github.com/VaibhavThalal/CO2-Emissions-Analytics-Sankey-Visualization/blob/7e791656bfbf441ab1dc87fd75af9b989b600594/Design%20Sketch.png))
+![Design Sketch]([Design Sketch.png](Design Sketch.png))
 
 **Key steps in this phase included:**
 * **Source Identification:** CO2 emissions were categorized by fuel type: **Solid Fuels**, **Liquid Fuels**, and **Gaseous Fuels**.
