@@ -28,7 +28,7 @@ Before implementation, the project began with investigating available indicators
 
 The final result is a live, animated Sankey diagram that tracks the flow of CO2 emissions from Fuel Type $\rightarrow$ Continent $\rightarrow$ Total Emissions $\rightarrow$ Top Countries.
 
-![Final Sankey Diagram](image_aff9df.jpg)
+![[Final Sankey Diagram](Final Plot.png)]
 
 ### Decade-by-Decade Analysis
 
