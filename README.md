@@ -2,9 +2,9 @@
 # Global CO2 Emissions Visualization (1960–2010)
 
 ## Abstract
-This project investigates how global CO2 emissions have changed across continents and countries over the past six decades. Using the World Bank’s World Development Indicators dataset, the aim was to create a clear and engaging visualization that captures long-term shifts in emissions. After thorough data cleaning and exploration, an animated Sankey diagram was developed to show how emissions flow from continents to countries across each decade.
+This project investigates how global CO2 emissions have changed across continents and countries over the past six decades. Using the World Bank’s World Development Indicators dataset, the aim was to create a clear and engaging visualization that captures long term shifts in emissions. After thorough data cleaning and exploration, an animated Sankey diagram was developed to show how emissions flow from continents to countries across each decade.
 
-The visualization reveals consistent growth in global emissions since 1960 with early dominance by North America and Europe, followed by sharp increases from Asia—especially China and India—from the 1990s onward. This animated format effectively highlights structural transitions and geographic shifts, illustrating how Asia has become the leading contributor in recent decades.
+The visualization reveals consistent growth in global emissions since 1960 with early dominance by North America and Europe, followed by sharp increases from Asia especially China and India from the 1990s onward. This animated format effectively highlights structural transitions and geographic shifts, illustrating how Asia has become the leading contributor in recent decades.
 
 ---
 
@@ -13,14 +13,14 @@ The visualization reveals consistent growth in global emissions since 1960 with 
 The development of the visualization followed a structured design and investigative process.
 
 ### 1. Design Sketch & Data Investigation
-Before implementation, the project began with investigating available indicators related to CO2 emissions within the dataset. A hand-drawn sketch was created to visualize the potential flow of data and layout of the final graph.
+Before implementation, the project began with investigating available indicators related to CO2 emissions within the dataset. A hand drawn sketch was created to visualize the potential flow of data and layout of the final graph.
 
 ![Design Sketch](image_af7dc5.jpg)
 
 **Key steps in this phase included:**
 * **Source Identification:** CO2 emissions were categorized by fuel type: **Solid Fuels**, **Liquid Fuels**, and **Gaseous Fuels**.
-* **Data Feature Engineering:** A custom column was created to map each country to its respective continent, enabling a high-level geographic grouping.
-* **Animation Strategy:** The design plan included a decade-based timeline to create an animated transition, allowing users to observe trends over time rather than a static snapshot.
+* **Data Feature Engineering:** A custom column was created to map each country to its respective continent, enabling a high level geographic grouping.
+* **Animation Strategy:** The design plan included a decade based timeline to create an animated transition, allowing users to observe trends over time rather than a static snapshot.
 
 ---
 
